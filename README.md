@@ -6,4 +6,4 @@ I am waiting for your email.
 
 ## Encrypted email
 - catswords@protonmail.com
-- catswords@protonmail.com
+- catswords@tutanota.com
